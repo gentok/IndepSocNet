@@ -30,15 +30,15 @@
 
 * 元データの整理・変数名変更・再保存（分析コードを実行する前に要実行）
 
-    1. CNEP1993: [コード](ddata_cnep93_1_recode_v2.R)|[出力結果](ddata_cnep93_1_recode_v2.md)
+    1. CNEP1993: [コード](replication_files/data_cnep93_1_recode_v2.R)|[出力結果](replication_files/data_cnep93_1_recode_v2.md)
 
-    2. JESII: [コード](data_jes2_1_recode_v2.R)|[出力結果](data_jes2_1_recode_v2.md)
+    2. JESII: [コード](replication_files/data_jes2_1_recode_v2.R)|[出力結果](replication_files/data_jes2_1_recode_v2.md)
 
-    3. JESIII: [コード](data_jes3_1_recode_v2.R)|[出力結果](data_jes3_1_recode_v2.md)
+    3. JESIII: [コード](replication_files/data_jes3_1_recode_v2.R)|[出力結果](replication_files/data_jes3_1_recode_v2.md)
 
 * 分析 
 
-    1. メイン分析： [コード](analysis_0_main_v2.R)|[出力結果](analysis_0_main_v2.md)
+    1. メイン分析： [コード](replication_files/analysis_0_main_v2.R)|[出力結果](replication_files/analysis_0_main_v2.md)
 
 ## 著作権
 
